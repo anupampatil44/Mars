@@ -11,3 +11,10 @@ Notes:
 - Is attention really all you need?
 - Transformers vs transfer?
 - Uniqueness of dataset
+
+
+Work Distribution
+- Pushkar - Transformers
+- Sameer - Efficientnet
+- Anupam - Resnet18
+- Aboli - Resnet50

@@ -7,11 +7,6 @@ Dataset Links:
 - https://zenodo.org/record/3892024
 
 
-Notes:
-- Is attention really all you need?
-- Transformers vs transfer?
-- Uniqueness of dataset
-
 
 Work Distribution
 - Pushkar - Transformers
